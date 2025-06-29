@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Personal Info",
+    "subTitle": "Manage Your Account Information",
+    "list": [
+      {
+        "title": "Full Name",
+        "subTitle": "Add Name"
+      },
+      {
+        "title": "Email Address",
+        "subTitle": "test1@gmail.com"
+      },
+      {
+        "title": "Primary Phone Number",
+        "subTitle": "Add Phone Number"
+      },
+      {
+        "title": "Birthday",
+        "subTitle": "Add BirthDay"
+      }
+    ]
+  },
+    {
+    "title": "Address",
+    "subTitle": "Manage Your Address",
+    "list": [
+      {
+        "title": "Delivery Address ",
+        "subTitle": "Add Delivery Address"
+      },
+   
+
+      {
+        "title": "Pickup Address",
+        "subTitle": "Add Pickup Address"
+      }
+    ]
+  },
+    {
+    "title": "Settings",
+    "subTitle": "App Settings"
+  }
+]
